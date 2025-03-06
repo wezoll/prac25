@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://wezoll.github.io/prac25/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,9 +13,7 @@
   },
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "homepage": "https://wezoll.github.io/prac25/"
-
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
